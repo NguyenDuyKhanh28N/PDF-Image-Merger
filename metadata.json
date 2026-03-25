@@ -1,0 +1,5 @@
+{
+  "name": "PDF & Image Merger",
+  "description": "Ghép nhiều tệp PDF và hình ảnh thành một tệp PDF duy nhất. Hỗ trợ kéo thả để sắp xếp lại thứ tự các trang.",
+  "requestFramePermissions": []
+}
